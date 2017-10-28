@@ -69,7 +69,7 @@
 
 	<repositories>
 		<repository>
-			<name>ossrh</name>
+			<id>ossrh</id>
 			<url>https://oss.sonatype.org/content/groups/public/</url>
 		</repository>
 	</repositories>
