@@ -67,5 +67,12 @@
 		</plugins>
 	</build>
 
+	<repositories>
+		<repository>
+			<name>ossrh</name>
+			<url>https://oss.sonatype.org/content/groups/public/</url>
+		</repository>
+	</repositories>
+
 
 </project>
