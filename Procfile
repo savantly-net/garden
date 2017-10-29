@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/garden.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/garden.jar
