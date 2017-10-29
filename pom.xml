@@ -6,7 +6,7 @@
 	<packaging>jar</packaging>
 
 	<name>garden</name>
-	<description>Garden is a content management system based on Sprout + Spring</description>
+	<description>Garden is a content management system based on Sprout + Spring </description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
