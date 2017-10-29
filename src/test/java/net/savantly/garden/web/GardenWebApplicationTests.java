@@ -18,7 +18,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
 
-import net.savantly.sprout.autoconfigure.EnableSprout;
 import net.savantly.sprout.autoconfigure.SproutAutoConfiguration;
 
 @RunWith(SpringRunner.class)
@@ -51,7 +50,6 @@ public class GardenWebApplicationTests {
 	}
 	
 	@Configuration
-	@EnableSprout
 	@EnableAutoConfiguration
 	static class config {}
 
