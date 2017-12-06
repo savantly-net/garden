@@ -24,8 +24,11 @@ Customizable landing page for your visitors
 
 #### Admin Page  
 Manage your Sprout application here  
-![admin](./examples/img/sprout-admin.png)  
+![admin](https://github.com/savantly-net/sprout-platform/raw/master/examples/img/sprout-admin.png)  
 ![admin menu](https://github.com/savantly-net/sprout-platform/raw/master/examples/img/sprout-admin-menu.png)  
+
+### Settings Page
+![admin settings](https://github.com/savantly-net/sprout-platform/raw/master/examples/img/sprout-admin-settings.png)  
 
 #### Menu Admin Page  
 Manage the menu for your Sprout application  
