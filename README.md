@@ -8,7 +8,7 @@ Download the latest [release], and start it from the command line -
 `java -jar garden.jar`  
 
 You can override properties by including a `application.properties` file in the same directory as the jar file.  
-[See here for more info.](./src/main/resources/application.properties)  
+[See here for more info.](./src/main/resources/)  
 
 
 ### Development   
