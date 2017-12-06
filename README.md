@@ -3,7 +3,15 @@
 # garden
 Content Management System based on the Sprout Platform
 
-### Quick Start Installation  
+### Quick Start Installation
+Download the latest [release], and start it from the command line -  
+`java -jar garden.jar`  
+
+You can override properties by including a `application.properties` file in the same directory as the jar file.  
+[See here for more info.](./src/main/resources/application.properties)  
+
+
+### Development   
 [Requires nodejs]  
 - Branch the [Garden App]
 - Run `mvn spring-boot:run` from the base directory of the project  
@@ -62,7 +70,7 @@ Content Items are added to the placeholders, and rendered using the Page Layout 
 ![home page with content](https://github.com/savantly-net/sprout-platform/raw/master/examples/img/sprout-home-with-page.png)  
 
 
-
+[release]: https://github.com/savantly-net/garden/releases  
 [Garden App]: https://github.com/savantly-net/garden  
 [sprout-spring-boot-starter]: https://github.com/savantly-net/sprout-platform/tree/master/spring/sprout-spring-boot-starter  
 [Material Icons]: https://material.io/icons/  
