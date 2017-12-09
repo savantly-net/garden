@@ -12,12 +12,12 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<sprout.version>1.4.0-SNAPSHOT</sprout.version>
+		<sprout.version>1.4.0-RC1</sprout.version>
 	</properties>
 	<parent>
 		<groupId>net.savantly.sprout</groupId>
 		<artifactId>web-parent</artifactId>
-		<version>1.4.0-SNAPSHOT</version>
+		<version>1.4.0-RC1</version>
 		<relativePath />
 	</parent>
 
