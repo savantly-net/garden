@@ -49,6 +49,11 @@ public class GardenWebApplicationTests {
 		mvc.perform(get("/")).andExpect(status().isOk());
 	}
 	
+	@Test
+	public void loadWikiPage() throws Exception {
+		mvc.perform(get("/rest/modules/sprout-wiki/")).andExpect(status().isOk());
+	}
+	
 	@Configuration
 	@EnableAutoConfiguration
 	static class config {}
